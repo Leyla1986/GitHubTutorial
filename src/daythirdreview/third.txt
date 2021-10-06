@@ -1,0 +1,28 @@
+
+1.How to make a branch?
+                    ==> Git
+                          -> go to right down
+                          -> right click
+                          -> make new branch
+
+2.What is a Branch?
+               ==> every branch you have basically of copy
+
+3.What is a Merge?
+               ==> Combine changes basically of branches.
+
+4.What is an Origin?
+               ==> reference of remote branches
+
+5.What is a Commit?
+               ==> getting your change is ready
+
+6.What is a CheckOut?
+               ==> switch the Head to a Branch
+                                           -> master right click
+                                           -> than checkout
+7.What is a Conflict?
+               ==> same place you have different text, so it is a conflict
+
+8.What is a Head?
+               ==> following the commitments.
