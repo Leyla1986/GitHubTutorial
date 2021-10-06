@@ -1,0 +1,32 @@
+
+ 1. How to create a project in Intellij IDE?
+       1.Open Intellij IDE
+                        ==> File / New / Project
+       2.Then
+           ==> At the project level create .gitignore file
+                                ==>right click  on project / file / .gitignore
+                                ==> in .gitignore file write this
+                                                               .idea
+                                                               *.iml
+       3.Create a package and class
+           ==> go to
+                 ==> src / right click / package
+                 ==> package / right click / class
+
+ 2.How to add your GitHub.com to your IntelliJ?
+         1. click IntelliJ IDEA -> Setting -> Version Control(on the left side) -> GitHub -> add account -> if you used 'jetbrains toolbox' when you install  your IDE the link lead you to the jetbrains.com than you can click the 'authorize in GitHub' button -> apply and Ok
+
+ 3.How to create local repository?
+           click VCS -> enable to version control integration -> select 'Git' -> Ok
+
+ 4.How to share your Project/package/code on GitHub?
+                             ==> After finish your code your have to:
+
+                             1. click Git -> Commit -> add Commit Message -> Click Commit
+                             2. click Git -> GitHub -> Share Project on GitHub -> Share
+   (you can only able to click 'share project' button one time, after than  you have to 'push' your code to gitHub not share)
+                             3. to see your project on GitHub:
+                             4. click Git -> GitHub -> Open On GitHub
+
+ 5.
+
