@@ -1,0 +1,23 @@
+
+
+1. How to change in GitHub your file?
+                         ==> in gitHub chancge first branch name to "master"
+                         ==> click oen sign
+                         ==> can be change anything you want in the file
+
+2. How to fetch the code from remote repo?
+     If something new in our remote repo, we have to fetch the code first , than pull the code.
+                         ==> right click Git
+                                    -> Fetch( means is get information)
+                                    -> than click 'pull' (allow to Branch updating)
+
+3. How to change if we made a last commit wrong?
+                       ==> first go to 'Log' double click wrong commit.
+                       ==> edit Commit  -> make some change -> Ok
+
+4.How to create a file in GitHub?
+                        ==> go to GitHub
+                        ==> src
+                             -> add file
+                             -> select create new file (example: summer.txt)
+                             -> click on commet button

@@ -28,5 +28,3 @@
                              3. to see your project on GitHub:
                              4. click Git -> GitHub -> Open On GitHub
 
- 5.
-
