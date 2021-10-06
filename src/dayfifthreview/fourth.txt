@@ -1,0 +1,23 @@
+
+1. How to merge child branch to master branch on GitGub?
+                                      ==> created branch on Intellij IDE
+                                      ==> added some change on your branch
+                                      ==> commit and push to the GitHub
+                                      ==> click Compare and  pull request button // OR click Pull request on the top then click New pull request button.
+                                      ==> Have to be:
+                                                  -> base:   master <-- compare: Leyla
+   and make some commit then click Create pull request
+
+                                     ==> click Merge pull request
+                                     ==> click Confirm merge
+                                     ==> come back to our Intellij IDE
+                                                           -> click Git
+                                                           -> Update Project
+
+***
+   if we want to let other team members to review our code, we have to do:
+                                     Pull request ->
+                                     new pull request ->
+                                     Have to be:   base: master <-- compare: Leyla
+                                     then click -> Create pull request
+                                     we can see Reviewers on the right side, and choose our team member who have to review our code.
