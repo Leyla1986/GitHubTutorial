@@ -1,0 +1,20 @@
+
+
+
+What is a Clone?
+            ==> You can work with your team
+
+How to Clone it?
+             ==> go to GitHub
+                          -> click code button
+                          -> copy URL
+                          -> go back Intellij IDE
+                          -> get from VCS and pasted URL
+
+
+Note: Pull request always happen between two branches.
+
+
+
+
+
